@@ -24,10 +24,12 @@ webdriver_manager
 
 Установите зависимости:
 pip install -r requirements.txt
+
 Запустите тесты:
 pytest AutoTestSauceDemo.py
 
 🧾 Файлы (находятся в ветке master)
 
 AutoTestSauceDemo.py — автотесты
+
 requirements.txt — зависимости
