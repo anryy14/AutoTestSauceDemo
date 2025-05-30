@@ -39,6 +39,6 @@ pytest AutoTestSauceDemo.py
 
 🧾 Файлы (находятся в ветке master)
 
-AutoTestSauceDemo.py — автотесты
+AutoTestSauceDemo.py — автотест
 
 requirements.txt — зависимости
