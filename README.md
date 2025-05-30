@@ -21,10 +21,13 @@ secret_sauce
 
 📦 Требования
 
-Python 3.7+
-requests
-selenium
-webdriver_manager
+-Python 3.7+
+
+-requests
+
+-selenium
+
+-webdriver_manager
 
 🚀 Установка и запуск
 
